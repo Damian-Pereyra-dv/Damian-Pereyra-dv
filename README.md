@@ -9,10 +9,11 @@
 Como Java Backend Developer diseño funcionalidades de aplicaciones back-end mediante código verificable en un entorno dinámico y ágil a través de pruebas unitarias y funcionales automatizadas para brindar soluciones a problemas centrados al usuario y potenciar la entrega de valor al negocio. 
 
 ## Proyectos destacados
+---
 #### Java Fullstack Developer Jr. en **IT Patagonia** 
----
+--
 #### Back Up Office Developer en **Vittal - Socorro Medico Privado**
----
+--
 
 ## Lenguajes y herramientas
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](ENLACE_A_TU_PERFIL_DE_JAVA)
