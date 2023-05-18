@@ -8,7 +8,7 @@
 Como Java Backend Developer diseño funcionalidades de aplicaciones back-end mediante código verificable en un entorno dinámico y ágil a través de pruebas unitarias y funcionales automatizadas para brindar soluciones a problemas centrados al usuario y potenciar la entrega de valor al negocio. 
 
 ## Proyectos destacados
-Java Fullstack Developer Jr.
+####Java Fullstack Developer Jr.
 ---
 **IT Patagonia** a
 
