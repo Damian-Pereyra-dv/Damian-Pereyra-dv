@@ -10,14 +10,14 @@ Como Java Backend Developer diseño funcionalidades de aplicaciones back-end med
 ## Experiencia Laboral
 
 ### BBVA en Argentina
-![Logo de BBVA](logo_bbva.png)
+![Logo de BBVA](logo_bbva.jpeg)
 
 - **Puesto**: Software Analyst Solutions Development II
 - **Duración**: May. 2023 - Actualidad (2 meses)
 - **Ubicación**: Buenos Aires, Argentina (Híbrido)
 
 ### IT Patagonia
-![Logo de IT Patagonia](logo_it_patagonia.png)
+![Logo de IT Patagonia](logo_it_patagonia.jpeg)
 
 - **Puesto**: Java Fullstack Developer Jr.
 - **Duración**: Mar. 2023 - May. 2023 (3 meses)
@@ -28,7 +28,7 @@ Responsabilidades:
 - Planificación, desarrollo, despliegue y monitoreo de Microservicios utilizando AppFlow, Gitlab y Openshift.
 
 ### vittal - Socorro Médico Privado S.A.
-![Logo de vittal](logo_vittal.png)
+![Logo de vittal](logo_vittal.jpeg)
 
 - **Duración**: 6 años 1 mes
 - **Puesto**: Back Up Office | Emergency Service Call Receiver
@@ -54,7 +54,7 @@ Responsabilidades:
 Aptitudes: Spring Boot, Java, Docker
 
 ### Frávega Tech
-![Logo de Frávega Tech](logo_fravega_tech.png)
+![Logo de Frávega Tech](logo_fravega_tech.jpeg)
 
 - **Puesto**: Java Developer Jr.
 - **Duración**: Ene. 2022 - Dic. 2022 (1 año)
@@ -67,7 +67,7 @@ Responsabilidades:
 - Participación en dailys, seguimiento y planning de proyectos.
 
 ### Alkemy
-![Logo de Alkemy](logo_alkemy.png)
+![Logo de Alkemy](logo_alkemy.jpeg)
 
 - **Puesto**: Java Backend Developer
 - **Tipo**: Contrato de prácticas
