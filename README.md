@@ -11,35 +11,25 @@ Como Java Backend Developer diseño funcionalidades de aplicaciones back-end med
 
 ### BBVA en Argentina
 ![Logo de BBVA](logo_bbva.jpeg)
-
 - **Puesto**: Software Analyst Solutions Development II
 
 ### IT Patagonia
 ![Logo de IT Patagonia](logo_it_patagonia.jpeg)
-
 - **Puesto**: Java Fullstack Developer Jr.
-
-Responsabilidades:
-- Desarrollo de Servicios / APIs de Integración - Middleware.
-- Planificación, desarrollo, despliegue y monitoreo de Microservicios utilizando AppFlow, Gitlab y Openshift.
 
 ### vittal - Socorro Médico Privado S.A.
 ![Logo de vittal](logo_vittal.jpeg)
-
 - **Puesto**: Back Up Office | Emergency Service Call Receiver
-- 
+
 ### Proyecto personal
 - **Puesto**: Software Developer | Proyecto personal
 
 ### Frávega Tech
 ![Logo de Frávega Tech](logo_fravega_tech.jpeg)
-
 - **Puesto**: Java Developer Jr.
--
 
 ### Alkemy
 ![Logo de Alkemy](logo_alkemy.jpeg)
-
 - **Puesto**: Java Backend Developer
 - **Tipo**: Contrato de prácticas
 
