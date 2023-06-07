@@ -7,32 +7,6 @@
 ## Sobre mí
 Como Java Backend Developer diseño funcionalidades de aplicaciones back-end mediante código verificable en un entorno dinámico y ágil a través de pruebas unitarias y funcionales automatizadas para brindar soluciones a problemas centrados al usuario y potenciar la entrega de valor al negocio. 
 
-##Cuento con experiencia Laboral tales como: 
-
-### BBVA en Argentina
-![Logo de BBVA](logo_bbva.jpeg)
-- **Puesto**: Software Analyst Solutions Development II
-
-### IT Patagonia
-![Logo de IT Patagonia](logo_it_patagonia.jpeg)
-- **Puesto**: Java Fullstack Developer Jr.
-
-### vittal - Socorro Médico Privado S.A.
-![Logo de vittal](logo_vittal.jpeg)
-- **Puesto**: Back Up Office | Emergency Service Call Receiver
-
-### Proyecto personal
-- **Puesto**: Software Developer | Proyecto personal
-
-### Frávega Tech
-![Logo de Frávega Tech](logo_fravega_tech.jpeg)
-- **Puesto**: Java Developer Jr.
-
-### Alkemy
-![Logo de Alkemy](logo_alkemy.jpeg)
-- **Puesto**: Java Backend Developer
-- **Tipo**: Contrato de prácticas
-
 ## Lenguajes y herramientas
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](ENLACE_A_TU_PERFIL_DE_JAVA)
 [![Spring Badge](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](ENLACE_A_TU_PERFIL_DE_SPRING)
@@ -46,6 +20,39 @@ Como Java Backend Developer diseño funcionalidades de aplicaciones back-end med
 [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](ENLACE_A_TU_PERFIL_DE_DOCKER)
 [![Scrum Badge](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logo=agile&logoColor=white)](ENLACE_A_TU_PERFIL_DE_SCRUM)
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](ENLACE_A_TU_PERFIL_DE_REACT)
+
+
+## Cuento con experiencia Laboral tales como: 
+
+### BBVA en Argentina
+![Logo de BBVA](logo_bbva.jpeg)
+- **Puesto**: Software Analyst Solutions Development II
+<br>
+
+### IT Patagonia
+![Logo de IT Patagonia](logo_it_patagonia.jpeg)
+- **Puesto**: Java Fullstack Developer Jr.
+<br>
+
+### vittal - Socorro Médico Privado S.A.
+![Logo de vittal](logo_vittal.jpeg)
+- **Puesto**: Back Up Office | Emergency Service Call Receiver
+<br>
+
+### Proyecto personal
+- **Puesto**: Software Developer | Proyecto personal
+<br>
+
+### Frávega Tech
+![Logo de Frávega Tech](logo_fravega_tech.jpeg)
+- **Puesto**: Java Developer Jr.
+<br>
+
+### Alkemy
+![Logo de Alkemy](logo_alkemy.jpeg)
+- **Puesto**: Java Backend Developer
+- **Tipo**: Contrato de prácticas
+
 
 
 
