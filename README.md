@@ -7,12 +7,76 @@
 ## Sobre mí
 Como Java Backend Developer diseño funcionalidades de aplicaciones back-end mediante código verificable en un entorno dinámico y ágil a través de pruebas unitarias y funcionales automatizadas para brindar soluciones a problemas centrados al usuario y potenciar la entrega de valor al negocio. 
 
-## Experiencia
----
-#### Java Fullstack Developer Jr. en **IT Patagonia** 
---
-#### Back Up Office Developer en **Vittal - Socorro Medico Privado**
---
+## Experiencia Laboral
+
+### BBVA en Argentina
+![Logo de BBVA](logo_bbva.png)
+
+- **Puesto**: Software Analyst Solutions Development II
+- **Duración**: May. 2023 - Actualidad (2 meses)
+- **Ubicación**: Buenos Aires, Argentina (Híbrido)
+
+### IT Patagonia
+![Logo de IT Patagonia](logo_it_patagonia.png)
+
+- **Puesto**: Java Fullstack Developer Jr.
+- **Duración**: Mar. 2023 - May. 2023 (3 meses)
+- **Ubicación**: Provincia de Buenos Aires, Argentina (En remoto)
+
+Responsabilidades:
+- Desarrollo de Servicios / APIs de Integración - Middleware.
+- Planificación, desarrollo, despliegue y monitoreo de Microservicios utilizando AppFlow, Gitlab y Openshift.
+
+### vittal - Socorro Médico Privado S.A.
+![Logo de vittal](logo_vittal.png)
+
+- **Duración**: 6 años 1 mes
+- **Puesto**: Back Up Office | Emergency Service Call Receiver
+- **Jornada**: Jornada completa
+- **Ubicación**: Mar. 2017 - Mar. 2023 (6 años 1 mes)
+
+Responsabilidades:
+- Gestión operativa de auxilios y definición de parámetros para plataformas, procesos y sistemas operativos.
+- Atención de pacientes vía WhatsApp (ChatBot/Botmaker) y aplicaciones 2.0 (Telemedicina, IDOC).
+- Investigación y resolución de errores y problemas en la aplicación.
+- Documentación técnica para mejorar y progresar la aplicación.
+
+### Proyecto personal
+- **Puesto**: Software Developer | Proyecto personal
+- **Tipo**: Autónomo
+- **Duración**: Jun. 2022 - Nov. 2022 (6 meses)
+
+Responsabilidades:
+- Desarrollo de una aplicación web en React.
+- Uso de una infraestructura de microservicios en Java con SpringBoot, Docker y Google Cloud.
+- Gestión de servicios para uso personal.
+
+Aptitudes: Spring Boot, Java, Docker
+
+### Frávega Tech
+![Logo de Frávega Tech](logo_fravega_tech.png)
+
+- **Puesto**: Java Developer Jr.
+- **Duración**: Ene. 2022 - Dic. 2022 (1 año)
+- **Ubicación**: Provincia de Buenos Aires, Argentina (En remoto)
+
+Responsabilidades:
+- Implementación de funcionalidades en aplicaciones existentes utilizando Java, SpringBoot, Hibernate y JPA.
+- Migración de servicios y resolución de errores.
+- Escritura de pruebas unitarias y documentación técnica.
+- Participación en dailys, seguimiento y planning de proyectos.
+
+### Alkemy
+![Logo de Alkemy](logo_alkemy.png)
+
+- **Puesto**: Java Backend Developer
+- **Tipo**: Contrato de prácticas
+- **Duración**: Jul. 2022 - Oct. 2022 (4 meses)
+- **Ubicación**: Argentina (En remoto)
+
+Responsabilidades:
+- Desarrollo de 2 API RESTful para ONG y Web de entretenimiento de personajes de Disney.
+- Uso de autenticación de usuarios, CRUD, elementos reutilizables y modelado de entidades
 
 ## Lenguajes y herramientas
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](ENLACE_A_TU_PERFIL_DE_JAVA)
